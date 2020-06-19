@@ -3,4 +3,4 @@
 
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://34.120.54.17/live/la/chunks.m3u8
+https://videocdn.mixer.com/hls/163375268-e806f65724b98e82f13c24af8017d780_source/index.m3u8
