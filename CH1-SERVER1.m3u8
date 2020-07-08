@@ -3,10 +3,8 @@
 
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://34.120.120.19/live/la/chunks.m3u8
+http://34.120.226.215/live/m8/chunks.m3u8
 
-http://34.120.120.19/live/la/chunks.m3u8
-http://brhn.xyz/useetvgo/m3u/bein1.m3u8
 
 
 
